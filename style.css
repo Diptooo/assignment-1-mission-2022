@@ -1,3 +1,14 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0ch;
+}
+
+.div-MASTER-Stay-Focused{
+    border-left: 4px solid;
+    border-image: linear-gradient( #7900FF, rgb(182, 65, 211));
+    border-image-slice: 1;
+}
+
+.div-Stay-Focused{
+    font-family: 'Lora', serif;
 }
