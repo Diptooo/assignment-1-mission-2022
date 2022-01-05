@@ -1,14 +1,64 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0ch;
+    background-color: #FFF5E1;
+}
+
+.color-393E46{
+    color: #393E46;
+}
+
+.color-FF5959{
+    color: #FF5959;
+}
+
+.color-grey{
+    color: grey;
 }
 
 .div-MASTER-Stay-Focused{
     border-left: 4px solid;
-    border-image: linear-gradient( #7900FF, rgb(182, 65, 211));
-    border-image-slice: 1;
+    border-color: #9145B6;
+    
 }
 
 .div-Stay-Focused{
-    font-family: 'Lora', serif;
+    font-family: 'DM Serif Display', serif;
+    font-size: 220%;
+    margin-left: 15px;
+    line-height: 75%;
+    
+}
+
+
+.part-1{
+    display: flex;
+    margin-left: 5%;
+    
+}
+
+.paragraph-1{
+    width: 50%;
+    margin-left: 5%;
+    margin-top: 10%;
+}
+
+.div-MASTER-picture-1{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+.div-picture-1{
+    width: 75%;
+}
+
+.Button-Explore-Now{
+    color: white;
+    text-decoration: none;
+    background-color: #9145B6;
+    padding: 10px	30px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px grey;
 }
