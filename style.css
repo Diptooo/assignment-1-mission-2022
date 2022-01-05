@@ -19,6 +19,8 @@ body{
 .div-MASTER-Stay-Focused{
     border-left: 4px solid;
     border-color: #9145B6;
+    border-radius: 3px;
+    
     
 }
 
@@ -33,7 +35,7 @@ body{
 
 .part-1{
     display: flex;
-    margin-left: 5%;
+    margin-left: 7%;
     
 }
 
@@ -61,4 +63,13 @@ body{
     padding: 10px	30px;
     border-radius: 5px;
     box-shadow: 3px 3px 10px grey;
+    
+}
+
+.div-i-dont{
+    margin-bottom: 5%;
+}
+
+.Scroll-down{
+    margin-top: 7%;
 }
