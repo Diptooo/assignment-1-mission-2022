@@ -16,6 +16,10 @@ body{
     color: grey;
 }
 
+.color-4C3F91{
+    color: #4C3F91;
+}
+
 .div-MASTER-Stay-Focused{
     border-left: 4px solid;
     border-color: #9145B6;
@@ -36,18 +40,19 @@ body{
 .part-1{
     display: flex;
     margin-left: 7%;
+    margin-bottom: 3%;
     
 }
 
 .paragraph-1{
     width: 50%;
-    margin-left: 5%;
+    margin-left: 3%;
     margin-top: 10%;
 }
 
 .div-MASTER-picture-1{
     width: 50%;
-    margin-left: 5%;
+    margin-left: 10%;
     margin-right: 5%;
     
 }
@@ -72,4 +77,68 @@ body{
 
 .Scroll-down{
     margin-top: 7%;
+}
+
+.My-Mission{
+    text-align: center;
+    font-weight: 900;
+}
+
+.my-mission-2022{
+
+display: flex;
+margin-left: 10%;
+margin-right: 7%;
+margin-bottom: 3%;
+
+
+}
+
+.My-Mission-3-1{
+    width: 26%;
+    margin-right: 1.5%;
+    background-color: whitesmoke;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 5%;
+    box-shadow: 1px 1px 10px grey;
+}
+
+.My-Mission-3-2{
+    width: 26%;
+    margin-right: 1.5%;
+    margin-left: 1.5%;
+    background-color: #FFEDED;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 5%;
+    box-shadow: 1px 1px 10px grey;
+}
+
+.My-Mission-3-3{
+    width: 26%;
+    margin-left: 1.5%;
+    background-color: #FFFDDE;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 5%;
+    box-shadow: 1px 1px 10px grey;
+}
+
+.image-Mission{
+    width: 40%;
+}
+
+.image-Vision{
+    width: 94%;
+}
+
+.image-Goals{
+    width: 94%;
 }
